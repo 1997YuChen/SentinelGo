@@ -5,4 +5,4 @@
 👉 [隱私權政策](https://1997yuchen.github.io/SentinelGo/privacy.html)
 
 
-**動態護衛 App 團隊**
+**行動哨兵 App 團隊**
